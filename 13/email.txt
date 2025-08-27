@@ -1,6 +1,2 @@
 email,password
-sayedmahmood843@gmail.com, sayed001002
-sayed@gmail.com, sayed555
-a, a
-a, a
-wow, awesome
+
